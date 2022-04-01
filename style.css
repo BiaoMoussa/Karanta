@@ -1,0 +1,41 @@
+header
+{
+    z-index: 100;
+    opacity: .95;
+}
+
+.nav-item a:hover
+{
+    background-color: rgb(84, 139, 215);
+    text-decoration: underline;
+    zoom: 1.2;
+    border-radius: 3px;
+    color: white;
+}
+.nav-item a:active
+{
+    background-color:rgba(5, 76, 5, 0.882);
+    text-decoration: underline;
+    zoom: 1.2;
+    border-radius: 3px;
+    color: white;
+}
+.nav-item a:visited
+{
+    background-color:rgba(255, 136, 0, 0.807);
+    text-decoration: underline;
+    zoom: 1.2;
+    border-radius: 3px;
+    color: white;
+}
+.box
+{
+    border: blue 1px solid;
+    box-shadow: inset;
+}
+.card:hover
+{
+    background-color: rgba(7, 88, 249, 0.272);
+    color: white;
+}
+
